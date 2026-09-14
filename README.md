@@ -11,7 +11,7 @@ jolnk
 ⣿⣿⣿⣿⣦⣤⣍⣉⣡⣤⣴⣿⣿⣿⣿
 ```
 
-[name](https://github.com/jolnk/)
+[main](https://github.com/jolnk/)
 
 [more-information-contact](https://github.com/jolnk/)
 

@@ -1,5 +1,10 @@
 jolnk
 
+[main](https://github.com/jolnk/)
+
+<!--
+jolnk
+
 ```rb
 ⣿⣿⣿⡿⠛⢛⣉⣉⣉⠛⠻⢿⣿⣿⣿
 ⣿⣿⠋⣤⣾⣿⠛⢻⣿⣿⣷⣄⠙⣿⣿
@@ -14,6 +19,7 @@ jolnk
 [main](https://github.com/jolnk/)
 
 [more-information-contact](https://github.com/jolnk/)
+-->
 
 <!--
 **jolnk/jolnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
